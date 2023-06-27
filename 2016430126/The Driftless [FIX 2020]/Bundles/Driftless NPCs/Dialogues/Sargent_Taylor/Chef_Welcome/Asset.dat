@@ -1,0 +1,27 @@
+GUID 9e23ccad2d084f78b00e5c77ab677416
+Type Dialogue
+ID 510
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// Id like to buy some stuff
+// Chef_Vendor_Completed
+Response_0_Dialogue 511
+Response_0_Vendor 513
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Chef_Supply
+Response_1_Dialogue 512
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 61
+Response_1_Reward_0_Value True

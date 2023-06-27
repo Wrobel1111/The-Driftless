@@ -1,0 +1,18 @@
+GUID 854f7b0e01554a9ba60164e6f264289f
+Type NPC
+ID 1002
+
+Shirt 167
+Pants 236
+Vest 2236
+Mask 237
+Face 2
+Hair 8
+Color_Skin #D9CAB4
+Color_Hair #473928
+Backward
+
+Primary 4
+Equipped_Primary 4
+
+Dialogue 504

@@ -1,0 +1,27 @@
+GUID cc9a1fe69159422ea7d41135ffe7bfca
+Type Dialogue
+ID 11100
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// Id like to get rid of some rotton food
+// Chef_Vendor_Completed
+Response_0_Dialogue 1102
+Response_0_Vendor 63
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Chef_Supply
+Response_1_Dialogue 101
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 61
+Response_1_Reward_0_Value True

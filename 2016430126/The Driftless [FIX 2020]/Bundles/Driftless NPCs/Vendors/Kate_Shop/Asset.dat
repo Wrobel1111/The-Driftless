@@ -1,0 +1,27 @@
+GUID 96b28d31d85646038cc39eb66694c278
+Type Vendor
+ID 522
+
+Buying 2
+// Hoodie
+Buying_0_ID 173
+Buying_0_Cost 30
+// Jeans
+Buying_1_ID 2
+
+Selling 5
+// White Parka
+Selling_0_ID 178
+Selling_0_Cost 40
+// White T-Shirt
+Selling_1_ID 180
+Selling_1_Cost 30
+// White Shirt
+Selling_2_ID 179
+Selling_2_Cost 50
+// White hoodie
+Selling_3_ID 177
+Selling_3_Cost 60
+// Avenger Magazine
+Selling_4_ID 1022
+Selling_4_Cost 65

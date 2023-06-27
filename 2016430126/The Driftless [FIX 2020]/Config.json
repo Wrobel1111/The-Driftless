@@ -1,0 +1,27 @@
+{
+	"Creators":
+	[
+        "Storm_Epidemic"
+	],
+
+	"Thanks":
+	[
+		"Mr_Gun for fixing",
+		"Second Cog for extra fixing",
+		"Me \"Like\" Bigboom",
+		"Mitch \"Sketches\" Wheaton",
+		"Wróbel_1111 for updating?"
+	],
+	"Trains":
+	[
+		{
+			"VehicleID": 186,
+			"RoadIndex": 53
+		}
+	],
+	"Category": "Misc",
+	"Version": "3.20.3.1",
+	"Visible_In_Matchmaking": true,
+	"Should_Verify_Objects_Hash": true,
+	"Has_Discord_Rich_Presence": true
+}

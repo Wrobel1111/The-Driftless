@@ -1,0 +1,13 @@
+GUID 0ea994c4db13481183c2241af8502fe4
+Type NPC
+ID 1000
+
+Shirt 232
+Pants 2
+Hat 240
+
+Face 1
+Color_Skin #9D886B
+Color_Hair #704210
+// Supply_Welcome
+Dialogue 2002

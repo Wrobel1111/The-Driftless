@@ -1,0 +1,13 @@
+GUID f943c57ec21043088a7d771cc05e2c91
+Type NPC
+ID 900
+
+Shirt 230
+Pants 231
+Hat 424
+
+Face 10
+Color_Skin #e5e4c3
+Color_Hair #191919
+
+Dialogue 11100

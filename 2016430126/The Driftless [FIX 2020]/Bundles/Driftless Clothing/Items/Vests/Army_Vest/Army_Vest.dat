@@ -1,0 +1,26 @@
+GUID 4e5a2b982b9c44e9a99b42c9cafb66eb
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 2236
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 6
+Height 3
+
+Armor 1.2
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 2236
+Blueprint_0_Product 67
+Blueprint_0_Products 4
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 7
+Blueprint_1_Build 32

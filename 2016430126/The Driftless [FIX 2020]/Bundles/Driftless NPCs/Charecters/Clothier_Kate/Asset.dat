@@ -1,0 +1,16 @@
+GUID 6f1dc4c7686b46369e62d73ff808da98
+
+Type NPC
+ID 525
+
+Shirt 173
+Pants 2
+Mask 568
+
+Face 20
+Hair 7
+Color_Skin #ddcfaf
+
+Color_Hair #ff0000
+
+Dialogue 520

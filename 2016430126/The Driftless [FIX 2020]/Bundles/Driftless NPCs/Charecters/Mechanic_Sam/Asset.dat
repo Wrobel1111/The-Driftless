@@ -1,0 +1,14 @@
+GUID b071d42e3b0c4db68accfb6b84a3f39b
+
+Type NPC
+ID 1001
+
+Shirt 405
+Pants 406
+Hat 1427
+
+Face 7
+Color_Skin #4B3D31
+Color_Hair #191919
+
+Dialogue 500

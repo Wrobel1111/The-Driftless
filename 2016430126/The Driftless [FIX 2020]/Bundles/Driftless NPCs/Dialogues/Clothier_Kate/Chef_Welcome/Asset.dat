@@ -1,0 +1,27 @@
+GUID 0f0bf9410d7740f099c3918f7480ed44
+Type Dialogue
+ID 520
+
+Messages 1
+Message_0_Pages 1
+
+Responses 4
+
+// I'd like to trade
+// Chef_Vendor_Completed
+Response_0_Dialogue 521
+Response_0_Vendor 522
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Chef_Supply
+Response_1_Dialogue 523
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 61
+Response_1_Reward_0_Value True

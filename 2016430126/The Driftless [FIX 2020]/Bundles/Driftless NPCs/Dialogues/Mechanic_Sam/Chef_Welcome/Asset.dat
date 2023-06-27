@@ -1,0 +1,18 @@
+GUID e8af1417df0b41ada5250185752bc2e1
+Type Dialogue
+ID 500
+
+Messages 1
+Message_0_Pages 1
+
+Responses 1
+
+// I heard you sell vehicles...
+// Chef_Vendor_Completed
+Response_0_Dialogue 501
+Response_0_Vendor 503
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal

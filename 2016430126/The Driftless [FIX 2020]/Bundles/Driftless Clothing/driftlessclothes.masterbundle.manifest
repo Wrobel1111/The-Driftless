@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 1933543305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38f13298b7875425307e9fa33db773fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d84a31c5db8f41271fc960bc7d50fa7f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Packagers_Jersy/Shirt.png
+- Assets/Driftless/DriftlessClothes/Items/Pants/Rescue_Pants/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Army_Uniform_Top/Shirt.png
+- Assets/Driftless/DriftlessClothes/Items/Vests/Army_Vest/Vest.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Rescue_Top/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Rescue_Top/Shirt.png
+- Assets/Driftless/DriftlessClothes/Items/Pants/Coast_Pants/Pants.png
+- Assets/Driftless/DriftlessClothes/Items/Pants/Coast_Pants/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Packagers_Jersy/Materials/Shirt.mat
+- Assets/Driftless/DriftlessClothes/Items/Pants/Army_Uniform_Bottom/Pants.png
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Rescue_Top/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Vests/Army_Vest/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Pants/Rescue_Pants/Pants.png
+- Assets/Driftless/DriftlessClothes/Items/Pants/Rescue_Pants/Materials/Pants.mat
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Army_Uniform_Top/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Packagers_Jersy/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Pants/Army_Uniform_Bottom/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Army_Uniform_Top/Materials/Shirt.mat
+- Assets/Driftless/DriftlessClothes/Items/Pants/Army_Uniform_Bottom/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Vests/Army_Vest/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Pants/Coast_Pants/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Packagers_Jersy/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Pants/Army_Uniform_Bottom/Materials/Pants.mat
+- Assets/Driftless/DriftlessClothes/Items/Pants/Coast_Pants/Materials/Pants.mat
+- Assets/Driftless/DriftlessClothes/Items/Pants/Rescue_Pants/Item.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Army_Uniform_Top/Animations.prefab
+- Assets/Driftless/DriftlessClothes/Items/Shirts/Rescue_Top/Materials/Shirt.mat
+Dependencies: []

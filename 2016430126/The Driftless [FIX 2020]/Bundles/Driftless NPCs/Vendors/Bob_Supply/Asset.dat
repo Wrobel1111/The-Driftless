@@ -1,0 +1,79 @@
+GUID cfaab2d1140149d68892846ddc170fa3
+Type Vendor
+ID 103
+
+Buying 15
+// Nails
+Buying_0_ID 71
+Buying_0_Cost 10
+// Pine Plank
+Buying_1_ID 63
+Buying_1_Cost 20
+// Maple Plank
+Buying_2_ID 61
+Buying_2_Cost 15
+// Spotlight
+Buying_3_ID 459
+Buying_3_Cost 50
+// Bricks
+Buying_4_ID 74
+Buying_4_Cost 25
+// Portable Generator
+Buying_5_ID 458
+Buying_5_Cost 200
+// Nailgun
+Buying_6_ID 1165
+Buying_6_Cost 50
+// Pine Wall
+Buying_7_ID 58
+Buying_7_Cost 30
+// Maple Wall
+Buying_8_ID 33
+Buying_8_Cost 25
+// Duct Tape
+Buying_9_ID 69
+Buying_9_Cost 30
+// Construction Top
+Buying_10_ID 232
+Buying_10_Cost 20
+// Construction Helmet
+Buying_11_ID 240
+Buying_11_Cost 30
+// Jeans
+Buying_12_ID 2
+Buying_12_Cost 10
+// Metal Bar
+Buying_13_ID 285
+Buying_13_Cost 20
+// Maple Ladder
+Buying_14_ID 325
+Buying_14_Cost 40
+
+Selling 9
+// Locker
+Selling_0_ID 328
+Selling_0_Cost 250
+// Planter
+Selling_1_ID 331
+Selling_1_Cost 100
+// Pine Torch
+Selling_2_ID 361
+Selling_2_Cost 15
+// Maple Torch
+Selling_3_ID 359
+Selling_3_Cost 10
+// Metal Door
+Selling_4_ID 378
+Selling_4_Cost 100
+// Makeshift Muffler
+Selling_5_ID 478
+Selling_5_Cost 50
+// Makeshift Bat
+Selling_6_ID 487
+Selling_6_Cost 50
+// Chainsaw
+Selling_7_ID 490
+Selling_7_Cost 200
+// Crowbar
+Selling_8_ID 1032
+Selling_8_Cost 30

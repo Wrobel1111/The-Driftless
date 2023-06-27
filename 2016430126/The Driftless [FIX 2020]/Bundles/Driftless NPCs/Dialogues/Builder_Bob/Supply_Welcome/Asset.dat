@@ -1,0 +1,28 @@
+GUID b524fbcd59514080ba16c4e2ad6cbb9e
+Type Dialogue
+ID 2002
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// What do you have for sale?
+// Chef_Vendor_Completed
+Response_0_Dialogue 2001
+Response_0_Vendor 103
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 61
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Chef_Supply
+Response_1_Dialogue 2000
+Response_1_Rewards 1
+// Can_Sell_To_Chef
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 61
+Response_1_Reward_0_Value True
+

@@ -1,0 +1,19 @@
+GUID 9a410502a6974ddb86b3309418a455c0
+Type NPC
+ID 1010
+
+Shirt 3
+Pants 2
+Vest 10
+Mask 11
+Backpack 9
+Face 19
+Hair 12
+Color_Skin #D9CAB4
+Color_Hair #473928
+Backward
+
+Primary 116
+Equipped_Primary 4
+
+Dialogue 1010

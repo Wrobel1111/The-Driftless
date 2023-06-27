@@ -1,0 +1,44 @@
+GUID db3bc37d18144b6894e82f15f2e8df7e
+Type Vendor
+ID 513
+
+Buying 15
+// Military Mag
+Buying_0_ID 6
+Buying_0_Cost 50
+// Army Uniform Top
+Buying_1_ID 2234
+Buying_1_Cost 20
+// Army Uniform Bottom
+Buying_2_ID 2235
+Buying_2_Cost 30
+
+
+Selling 9
+// Low Cal. Military Ammunition
+Selling_0_ID 43
+Selling_0_Cost 90
+// Low Cal. Ranger Ammunition
+Selling_1_ID 119
+Selling_1_Cost 75
+// Zubeknakov
+Selling_2_ID 122
+Selling_2_Cost 70
+// Ranger Drum
+Selling_3_ID 125
+Selling_3_Cost 100
+// Dragonfang
+Selling_4_ID 132
+Selling_4_Cost 100
+// Dragonfang Ammo
+Selling_5_ID 133
+Selling_5_Cost 70
+// Military Suppressor
+Selling_6_ID 7
+Selling_6_Cost 50
+// Verticle Grip
+Selling_7_ID 8
+Selling_7_Cost 65
+// Avenger
+Selling_8_ID 1021
+Selling_8_Cost 65
